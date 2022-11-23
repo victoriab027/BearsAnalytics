@@ -17,7 +17,7 @@ Disclaimer: This is real CarMax data, however, this data is not representative o
 
 Relevant Files:
    * ShowcaseDataWinter23 - *the data set will have vehicle attributes for purchased and appraised cars, including make/model/trim, mileage, appraisal and purchase value*
-  * Winter 2023 Showcase Data Dictionary - *information about each feature in the data set*  
+  * Winter 2023 Showcase Data Dictionary - *information about each feature in the data set*   (this has been renamed to Data_Dictionary)
   * Frequently Asked Questions - *we will document any relevant questions and answers communicated through email or on our Decemeber 7th, 2022 & January 5th, 2023 Q&A calls here*  
 
 ### Challenge  
